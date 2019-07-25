@@ -29,27 +29,48 @@ margin-top: 200px;
 }
 .text3{
     margin-left: 540px;
+    font-family: sans-serif;
+    font-size: 45px;
 }
 .text4{
     margin-left: 140px;
-    margin-right: 140px;
+    font-family: sans-serif;
 }
 .tex{
     margin-left: 595px;
+    font-family: sans-serif;
 }
 .text5{
     margin-left: 300px;
+    font-family: sans-serif;
 }
 .text6{
     margin-left: 270px;
+    font-family: sans-serif;
 }
 .text7{
     margin-left: 400px;
     margin-bottom: 100px;
+    font-family: sans-serif;
 }
 
 .text8{
-    
+    margin-left: 550px;
+    padding-top: 80px;
+    font-family: sans-serif;
+    font-size: 45px;
+}
+.text9{
+    font-family: sans-serif;
+    margin-left: 250px;
+}
+.text10{
+    font-family: sans-serif;
+    margin-left: 350px;
+}
+.text11{
+    font-family: sans-serif;
+    margin-left: 300px;
 }
 .service{
     background-image: url("../images/back2.jpg");
