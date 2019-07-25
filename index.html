@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/styles.css">
     <title>Delani Studio</title>
 </head>
 <body>
@@ -78,17 +78,17 @@
     </div>
    
     <div class="contact">
-   <h1>CONTACT US</h1>
+   <h1 class="text13">CONTACT US</h1>
    <form class="fill">
         <div class="row">
-                <div class="col">
-                  <input type="text" class="form-control" placeholder="Name...">
+                <div class="col-md-4">
+                  <input type="text" class="form-control" id="name" placeholder="Name...">
                 </div>
-                <div class="col">
-                  <input type="email" class="form-control" placeholder="Email...">
+                <div class="col-md-4">
+                  <input type="email" class="form-control"  id="email" placeholder="Email...">
                 </div>
               </div>
-          <br><textarea name="textarea" rows="10" cols="60" placeholder="Your message here..."></textarea><br>
+          <br><textarea name="textarea" rows="10" cols="60" id="textarea" placeholder="Your message here..."></textarea><br>
           <br><input type="button" value="submit" onclick="check()" class="btn btn-primary">
    </div>
    </form>
