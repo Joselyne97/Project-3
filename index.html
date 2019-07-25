@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/bootstrap.css">
     <title>Document</title>
 </head>
 <body>
@@ -35,36 +36,37 @@
         <p class="text9">Before we sign a contract or write a line of code our team will spend the necessary time needed to understand your product vision</p>
         <p class="text10">The outcome of this scoping session ia proposal or high-level statement of work.</p>
         <p class="text11">based on your requirements, we can provide acomplete offering or just the pieces you need.</p>
-    </div>
-   
-    <div class="wedo">
-   <h1>WHAT WE DO</h1>
-   
-   <div class="design">
-       <img src="IP3/assets/services_icons/design_icon.png">
-       <h3>DESIGN</h3>
+        <h1 class="text12">WHAT WE DO</h1>
+        
+   <div class="row">
+   <div class="col-md-4">
+       <img src="IP3/assets/services_icons/design_icon.png" class="pic1">
+       <h3 class="des">DESIGN</h3>
+       <p>Our design practice offers a full range of services including branding strategy,interaction and visual design and user experience testing. Throughout your project, our designers create and implement visual designs and workflows solicit user feedback, and work with you to make sure what gets built is what is needed.</p>
    </div>
    
-   <div class="develop">
-       <img src="IP3/assets/services_icons/dev_icon.png">
-       <h3>DEVELOPMENT</h3>
+   <div class="col-md-4">
+       <img src="IP3/assets/services_icons/dev_icon.png" class="pic2">
+       <h3 class="dev">DEVELOPMENT</h3>
+       <p>All engineers are fluent in the latest enterprise, mobile and web development technologies. They collaborate with your team to write, test, and improve code on a daily basis, using proven practices such as test-driven development and pair programming.</p>
    </div>
    
-   <div class="product">
-       <img src="IP3/assets/services_icons/product_icon.png">
-       <h3>PRODUCT MANAGEMENT</h3>
+   <div class="col-md-4">
+       <img src="IP3/assets/services_icons/product_icon.png" class="pic3">
+       <h3 class="prod">PRODUCT MANAGEMENT</h3>
+       <p>Planning and development is iterative. Because we are constantly coding and testing, the products we build are always ready to go live.This iterative process allows for changes as business requirements eveolve.</p>
    </div>
-   
+   </div>
     </div>
    
     <div class="portfo">
-        <h1>PORTFOLIO</h1>
+        <h1 class="port">PORTFOLIO</h1>
         
         <div class="line1">
-       <img src="IP3/assets/portfolio/work4.jpg">
-       <img src="IP3/assets/portfolio/work3.jpg">
-       <img src="IP3/assets/portfolio/work2.jpg">
-       <img src="IP3/assets/portfolio/work1.jpg">
+       <div class="im1"><img src="IP3/assets/portfolio/work4.jpg"></div>
+       <div class="im1"><img src="IP3/assets/portfolio/work3.jpg"></div>
+       <div class="im1"><img src="IP3/assets/portfolio/work2.jpg"></div>
+       <div class="im1"><img src="IP3/assets/portfolio/work1.jpg"></div>
         </div>
    
         <div class="line2">
@@ -78,14 +80,14 @@
     <div class="contact">
    <h1>CONTACT US</h1>
    <form class="fill">
-       <div class="cont">
-           ​<label for="name">   </label>
-                     <input type="text" id="name" class="form-control" placeholder="Name..." name="name">
-   
-                       ​<label for="email">   </label>
-                     <input type="text" id="email" class="form-control" placeholder="Email..." name="email">
-                 </div>
-   </div>
+        <div class="row">
+                <div class="col">
+                  <input type="text" class="form-control" placeholder="Name...">
+                </div>
+                <div class="col">
+                  <input type="email" class="form-control" placeholder="Email...">
+                </div>
+              </div>
           <br><textarea name="textarea" rows="10" cols="60" placeholder="Your message here..."></textarea><br>
           <br><input type="button" value="submit" onclick="check()" class="btn btn-primary">
    </div>

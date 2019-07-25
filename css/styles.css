@@ -71,14 +71,16 @@ margin-top: 200px;
 .text11{
     font-family: sans-serif;
     margin-left: 300px;
+    margin-bottom: 80px;
 }
-.service{
-    background-image: url("../images/back2.jpg");
-    background-size: 1260px;
-    height: 700px;
-    background-repeat: no-repeat;
-    background-color: transparent;
+.text12{
+    font-family: sans-serif;
+    margin-left: 500px;
+    font-size: 45px;
+    padding-top: 100px;
 }
+
+
 .welcome {
     background-image: url("../images/back1.jpg");
     background-size: 1260px;
@@ -86,4 +88,57 @@ margin-top: 200px;
     background-repeat: no-repeat;
     background-color: transparent;
     
-};
+}
+.text12{
+    font-family: sans-serif;
+    margin-left: 500px;
+    font-size: 45px;
+    padding-top: 100px;
+    margin-bottom: 50px;
+}
+ 
+.pic1{
+    padding-left: 120px;
+}
+.des{
+    padding-left: 100px;
+}
+.pic2{
+    padding-left: 120px;
+}
+.dev{
+    padding-left: 80px;
+}
+.pic3{
+    padding-left: 120px;
+}
+.service{
+    background-image: url("../images/back2.jpg");
+    background-size: 1260px;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-color: transparent;
+ }
+ .portfo{
+     margin-top: 150px;
+ }
+ .port{
+    font-size: 45px;
+    font-family: sans-serif;
+    margin-left: 500px;
+    margin-bottom: 20px;
+ }
+ .line1{
+    display: flex;
+    flex-direction:row;
+    background-color: white;
+    height: cover;
+ }
+ .im1{
+    flex: 25%;
+    padding: 5px;
+    height: cover;
+    display: flex;
+    height: 100%;
+    width: 100%;
+ }
