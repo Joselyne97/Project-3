@@ -21,6 +21,11 @@ margin-top: 200px;
     font-family: sans-serif;
     margin-left: 370px;
     font-size: 80%;
+    margin-bottom: 50px;
+}
+.logo2{
+    margin-left: 600px;
+    
 }
 .welcome {
     background-image: url("../images/back1.jpg");
