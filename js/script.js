@@ -35,3 +35,12 @@ $(document).ready(function() {
  $(".pic3").toggle();
     });
  });
+ 
+ $(document).ready(function(){
+    $("form").submit(function(){
+        var name = document.getElementById("name");
+        var email = document.getElementById("email");
+        var text = document.getElementById("textarea");
+      alert("Hey " + name.value + "! We have received your message,Thank You!");
+    });
+  });

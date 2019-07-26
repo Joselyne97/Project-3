@@ -218,17 +218,25 @@ display: none;
     color: white;
 }
 .line3{
-    margin-left: 200px;
-    padding-top: 100px;
+    margin-left: 400px;
+    margin-top: 100px;
 }
-
-.contact{
+.end{
+    margin-left: 600px;
+    font-family: sans-serif;
+}
+.end2{
+    margin-left: 650px;
+    font-family: sans-serif;
+}
+ .contact{
     background-image: url("../images/back3.jpg");
     background-size: 1280px;
-    height: 700px;
+    height: 500px;
     background-repeat: no-repeat;
     background-color: transparent;
-}
-input[type=button]{
+} 
+input[type=submit]{
     margin-left: 800px;
 };
+
