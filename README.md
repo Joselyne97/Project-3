@@ -31,7 +31,6 @@ Joselyne MPAYIMANA
  
  ## The link to live site on GitHub Pages is :
 
- 
 
  ## Copyright and license information:
 
