@@ -4,13 +4,13 @@ margin-left: 560px;
 margin-top: 200px;
 }
 .text1{
-    /* color: white; */
+    color: white; 
     font-size: 45px;
     margin-left: 500px;
     font-family: sans-serif;
 }
 .text2{
-    /* color:white; */
+    color:white;
     font-size: 45px;
     margin-left: 400px;
     font-family: sans-serif;
@@ -22,6 +22,7 @@ margin-top: 200px;
     margin-left: 370px;
     font-size: 80%;
     margin-bottom: 50px;
+    color: white;
 }
 .logo2{
     margin-left: 600px;
@@ -55,6 +56,7 @@ margin-top: 200px;
 }
 
 .text8{
+    color: white;
     margin-left: 550px;
     padding-top: 80px;
     font-family: sans-serif;
@@ -63,15 +65,18 @@ margin-top: 200px;
 .text9{
     font-family: sans-serif;
     margin-left: 250px;
+    color: white;
 }
 .text10{
     font-family: sans-serif;
     margin-left: 350px;
+    color: white;
 }
 .text11{
     font-family: sans-serif;
     margin-left: 300px;
     margin-bottom: 80px;
+    color: white;
 }
 .text12{
     font-family: sans-serif;
@@ -195,31 +200,219 @@ display: none;
 .portfo{
     margin-bottom: 40px;
 }
+.im1{
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    width: 80%;
+    height: 90%;
+    position: absolute;
+}
+.im1 >h3{
+    position: absolute;
+    transform: translate(-50%);
+    color: #EEE8AA;
+    width: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    top: 50%;
+    padding: 0;
+    margin: 0;
+    font-size: 36px;
+    margin-left: 50%;
+    text-transform: uppercase;
+    text-align: center;
+}
+.im2{
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    width: 80%;
+    height: 30%;
+    position: absolute;
+}
+.im2 >h3{
+    position: absolute;
+    transform: translate(-50%);
+    color: #FF6347;
+    width: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    top: 50%;
+    padding: 0;
+    margin: 0;
+    font-size: 36px;
+    margin-left: 50%;
+    text-transform: uppercase;
+    text-align: center;
+}
+.im3 >h3{
+    position: absolute;
+    transform: translate(-50%);
+    color: #00008B;
+    width: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    top: 50%;
+    padding: 0;
+    margin: 0;
+    font-size: 36px;
+    margin-left: 50%;
+    text-transform: uppercase;
+    text-align: center;
+}
+.im3 {
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 20px;
+        width: 80%;
+        height: 30%;
+        position: absolute;
+    }
+    .im4{
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 20px;
+        width: 80%;
+        height: 30%;
+        position: absolute;
+    }
+    .im4 >h3{
+        position: absolute;
+        transform: translate(-50%);
+        color: #DC143C;
+        width: 100%;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        top: 50%;
+        padding: 0;
+        margin: 0;
+        font-size: 36px;
+        margin-left: 50%;
+        text-transform: uppercase;
+        text-align: center;
+    }
+    .im5{
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 20px;
+        width: 80%;
+        height: 30%;
+        position: absolute;
+    }
+    .im5 >h3{
+        position: absolute;
+        transform: translate(-50%);
+        color: #8B0000;
+        width: 100%;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        top: 50%;
+        padding: 0;
+        margin: 0;
+        font-size: 36px;
+        margin-left: 50%;
+        text-transform: uppercase;
+        text-align: center;
+    }
+    .im6{
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 20px;
+        width: 80%;
+        height: 30%;
+        position: absolute;
+    }
+    .im6 >h3{
+        position: absolute;
+        transform: translate(-50%);
+        color: #00008B;
+        width: 100%;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        top: 50%;
+        padding: 0;
+        margin: 0;
+        font-size: 36px;
+        margin-left: 50%;
+        text-transform: uppercase;
+        text-align: center;
+    }
+    .im7{
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 20px;
+        width: 80%;
+        height: 30%;
+        position: absolute;
+    }
+    .im7 >h3{
+        position: absolute;
+        transform: translate(-50%);
+        color: #FF4500;
+        width: 100%;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        top: 50%;
+        padding: 0;
+        margin: 0;
+        font-size: 36px;
+        margin-left: 50%;
+        text-transform: uppercase;
+        text-align: center;
+    }
+    .im8{
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 20px;
+        width: 80%;
+        height: 30%;
+        position: absolute;
+    }
+    .im8 >h3{
+        position: absolute;
+        transform: translate(-50%);
+        color: #191970;
+        width: 100%;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        top: 50%;
+        padding: 0;
+        margin: 0;
+        font-size: 36px;
+        margin-left: 50%;
+        text-transform: uppercase;
+        text-align: center;
+    }
 .text13{
     margin-left: 500px;
     padding-top: 50px;
     padding-bottom: 20px;
     font-family: sans-serif;
     font-size: 45px; 
+    color: white;
 }
 #textarea{
     margin-left: 300px;
     background-color: rgb(0,0,0,0);
+    color: white;
 }
 #name{
     background-color: rgb(0,0,0,0);
     margin-left: 200px;
+    color: white;
 }
 #email{
     background-color: rgb(0,0,0,0);
     margin-left: 200px;
+    color: white;
 }
 ::placeholder{
     color: white;
 }
-.line3{
+.iall{
     margin-left: 400px;
-    margin-top: 100px;
+    /* margin-top: 100px; */
 }
 .end{
     margin-left: 600px;
