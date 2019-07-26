@@ -1,6 +1,6 @@
 ## Project name:
 
-Independent Project-Child's name application!
+Delani Studio
 
 ## Author:
 
@@ -15,7 +15,7 @@ Joselyne MPAYIMANA
 
 ## Project description:
 
- We were required to build a web application that takes a user's birthday and calculates the day of the week that the child was born and then depending on the gender selected they will give you the name that a child should be called. The child's name is also called Akan name which is for Ghana's people. In Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born. So the app will help you by giving the name immediatly!
+ We were required to recreate a landing page for a fictional studio which is DELANI STUDIO which is same as this (you can see it in this link:) " https://delaniimaya.netlify.com/ "
 
  ## Technology used:
 
@@ -24,10 +24,14 @@ Joselyne MPAYIMANA
  3. bootstrap.css
  4. script.js
  5. README.md
+ 6. jquery-3.41.js
+ 7. image
+ 8. google font
+
  
  ## The link to live site on GitHub Pages is :
 
- https://joselyne97.github.io/Fri-project-2/
+ 
 
  ## Copyright and license information:
 
