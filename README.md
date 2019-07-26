@@ -30,7 +30,8 @@ Joselyne MPAYIMANA
 
  
  ## The link to live site on GitHub Pages is :
-        https://joselyne97.github.io/Project-3/
+ 
+https://joselyne97.github.io/Project-3/
 
  ## Copyright and license information:
 
