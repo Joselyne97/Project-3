@@ -100,6 +100,15 @@ margin-top: 200px;
 .pic1{
     padding-left: 120px;
 }
+.dede{
+    display: none;
+}
+.deve{
+    display: none;
+}
+#pro{
+    display: none;
+}
 .des{
     padding-left: 100px;
 }
@@ -110,7 +119,10 @@ margin-top: 200px;
     padding-left: 80px;
 }
 .pic3{
-    padding-left: 120px;
+    padding-left: 120px; */
+}
+ .wedo>.dede{
+display: none;
 }
 .service{
     background-image: url("../images/back2.jpg");
@@ -128,16 +140,7 @@ margin-top: 200px;
     margin-left: 500px;
     margin-bottom: 20px;
  }
- /* .line1{
-    display: flex;
-    flex-direction:row;
-    background-color: white;
-    height: cover;
- }
- .im1{
-    flex: 25%;
-    padding: 5px;
-    /* height: cover; */
+ 
 .m1{
     display: flex;
     margin-left: 14px;
@@ -214,21 +217,11 @@ margin-top: 200px;
 ::placeholder{
     color: white;
 }
-/* .form-control {
-    display: block;
-    width: 500px;
-    height: calc(1.5em + 0.75rem + 2px);
-    padding: 0.375rem 0.75rem;
-    font-size: 1rem;
-    font-weight: 400;
-    line-height: 1.5;
-    color:gainsboro;
-    background-color:;
-    background-clip: padding-box;
-    border: 1px solid gainsboro;
-    border-radius: 0.25rem;
-    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-  } */
+.line3{
+    margin-left: 200px;
+    padding-top: 100px;
+}
+
 .contact{
     background-image: url("../images/back3.jpg");
     background-size: 1280px;
@@ -236,3 +229,6 @@ margin-top: 200px;
     background-repeat: no-repeat;
     background-color: transparent;
 }
+input[type=button]{
+    margin-left: 800px;
+};
