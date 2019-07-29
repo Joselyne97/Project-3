@@ -41,7 +41,13 @@ $(document).ready(function() {
         var name = document.getElementById("name");
         var email = document.getElementById("email");
         var text = document.getElementById("textarea");
+        if (name.value == "" || email.value =="" || text.value =="") {
+            alert("undefined");
+        }
+        else {
       alert("Hey " + name.value + "! We have received your message,Thank You!");
+    }
+    event.preventDefault();
     });
   });
 
