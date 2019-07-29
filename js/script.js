@@ -41,7 +41,7 @@ $(document).ready(function() {
         var name = document.getElementById("name");
         var email = document.getElementById("email");
         var text = document.getElementById("textarea");
-        if (name.value == "" || email.value =="" || text.value =="") {
+        if (name.value == "" || email.value == "" || text.value == "") {
             alert("undefined");
         }
         else {
